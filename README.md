@@ -74,4 +74,4 @@ The chat application project demonstrates proficiency in full-stack web developm
 
 OUTPUT 
 
-![Image](https://github.com/user-attachments/assets/d9c8e857-6a29-419e-a8a9-d00093d9dc3a)
+![Image](https://github.com/user-attachments/assets/a65d6e56-62d0-43a0-8335-7ac2541cb0db)
