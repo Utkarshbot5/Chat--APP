@@ -72,4 +72,6 @@ Real-time notifications alert users to new messages, friend requests, or other s
 
 The chat application project demonstrates proficiency in full-stack web development and real-time communication technologies. Developing the app in VS Code provided an edge in terms of productivity and code reliability. The resulting application is scalable, secure, and well-suited for diverse communication requirements in both social and professional contexts.
 
+OUTPUT 
+
 ![Image](https://github.com/user-attachments/assets/d9c8e857-6a29-419e-a8a9-d00093d9dc3a)
