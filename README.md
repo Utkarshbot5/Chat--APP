@@ -1,14 +1,9 @@
-COMPANY NAME:-CODTECH IT SOLUTIONS PVT.LTD
-
 NAME:-UTKARSH KUMAR
 
-INTERN ID:-CT04DG3079
+ERP :-6604230
 
 DOMAIN:-Full Stack Web Development
 
-DURATION:-4 WEEKS
-
-MENTOR:-Neela Santhosh Kumar
 
 Project description:-
 # Chat App Project Description
